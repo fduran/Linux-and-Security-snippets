@@ -8,6 +8,9 @@ Linux and Security snippets by fduran
 Collection of Bash scripts and notes related to Linux server management and security.
 List of snippets
 
+<a href="https://gist.github.com/4271982">Apache2 optimization</a>  
+<a href="https://gist.github.com/4271967">Apache Redirect Subdomain to port</a>  
+<a href="https://gist.github.com/4271952">Linux find files opened for writing</a>  
 <a href="https://gist.github.com/1989361">Find Linux users that can log in with password</a>  
 <a href="https://gist.github.com/1947100">Apache security: installing mod_security</a>  
 <a href="https://gist.github.com/1870293">Linux Server Utilization</a>  
