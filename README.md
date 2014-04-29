@@ -8,9 +8,21 @@ Linux and Security snippets by fduran
 Collection of Bash scripts and notes related to Linux server management and security.
 List of snippets
 
+
+<a href="https://gist.github.com/fduran/11401032#file-linux-exclude-a-process-from-being-killed-by-oom-killer">Linux exclude a process from being killed by oom killer</a> 
+<a href="https://gist.github.com/fduran/11401011#file-linux-mini-forensics-on-unknown-running-process">Linux mini forensics on unknown running process</a>  
+<a href="https://gist.github.com/fduran/11400989#file-django-celery-development">https://gist.github.com/fduran/11400989#file-django-celery-development</a> 
+<a href="https://gist.github.com/fduran/11400900#file-postfix-mail-review">Postfix mail review</a> 
+<a href="https://gist.github.com/fduran/11400887#file-run-script-detached-from-an-ssh-terminal">Run script detached from an SSH terminal</a>  
+<a href="https://gist.github.com/fduran/11400872#file-linux-check-ssl-connection">Linux Check SSL connection</a> 
+<a href="https://gist.github.com/fduran/11400761#file-rsync-example">rsync example</a> 
+<a href="https://gist.github.com/fduran/11400712#file-linux-test-cron">Linux Test cron</a> 
+<a href="https://gist.github.com/fduran/11400672#file-linux-renice-many-processes-with-the-same-name">Linux renice many processes with the same name</a> 
+<a href="https://gist.github.com/fduran/11400633#file-php-send-mail-with-amazon-aws-ses-without-extra-library">PHP Send mail with Amazon AWS SES without extra library</a> 
+<a href="https://gist.github.com/fduran/11400587#file-delete-files-in-a-folder-older-than-a-number-of-days">Delete files in a folder older than a number of days</a>
 <a href="https://gist.github.com/4622779">MySQL Master-Slave Replication</a>  
 <a href="https://gist.github.com/4586880">Create Java KeyStore from SSL certificate</a>  
-<a href="https://gist.github.com/4543001">Python script to test/monitor if a Django site using authentication is up</a>   
+<a href="https://gist.github.com/4543001">Python script to test/monitor if a Django site using authentication is up</a> 
 <a href="https://gist.github.com/4514042">Linux "Too many files open" error</a>  
 <a href="https://gist.github.com/4271982">Apache2 optimization</a>  
 <a href="https://gist.github.com/4271967">Apache Redirect Subdomain to port</a>  
