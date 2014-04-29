@@ -11,7 +11,7 @@ List of snippets
 
 <a href="https://gist.github.com/fduran/11401032#file-linux-exclude-a-process-from-being-killed-by-oom-killer">Linux exclude a process from being killed by oom killer</a> 
 <a href="https://gist.github.com/fduran/11401011#file-linux-mini-forensics-on-unknown-running-process">Linux mini forensics on unknown running process</a>  
-<a href="https://gist.github.com/fduran/11400989#file-django-celery-development">https://gist.github.com/fduran/11400989#file-django-celery-development</a> 
+<a href="https://gist.github.com/fduran/11400989#file-django-celery-development">Django Celery</a> 
 <a href="https://gist.github.com/fduran/11400900#file-postfix-mail-review">Postfix mail review</a> 
 <a href="https://gist.github.com/fduran/11400887#file-run-script-detached-from-an-ssh-terminal">Run script detached from an SSH terminal</a>  
 <a href="https://gist.github.com/fduran/11400872#file-linux-check-ssl-connection">Linux Check SSL connection</a> 
