@@ -9,6 +9,7 @@ Collection of Bash scripts and notes related to Linux server management and secu
 List of snippets
 
 
+<a href="https://gist.github.com/fduran/f678b4b67f559ad505d8#file-linux-bash-generate-a-number-of-files-of-random-sizes-in-a-range">Linux Bash generate a number of files of random sizes in a range</a>
 <a href="https://gist.github.com/fduran/11401032#file-linux-exclude-a-process-from-being-killed-by-oom-killer">Linux exclude a process from being killed by oom killer</a>   
 <a href="https://gist.github.com/fduran/11401011#file-linux-mini-forensics-on-unknown-running-process">Linux mini forensics on unknown running process</a>  
 <a href="https://gist.github.com/fduran/11400989#file-django-celery-development">Django Celery</a>  
