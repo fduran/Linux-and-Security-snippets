@@ -23,7 +23,7 @@ List of snippets
 <a href="https://gist.github.com/fduran/11400587#file-delete-files-in-a-folder-older-than-a-number-of-days">Delete files in a folder older than a number of days</a>  
 <a href="https://gist.github.com/4622779">MySQL Master-Slave Replication</a>  
 <a href="https://gist.github.com/4586880">Create Java KeyStore from SSL certificate</a>  
-<a href="https://gist.github.com/4543001">Python script to test/monitor if a Django site using authentication is up</a> 
+<a href="https://gist.github.com/4543001">Python script to test/monitor if a Django site using authentication is up</a>   
 <a href="https://gist.github.com/4514042">Linux "Too many files open" error</a>  
 <a href="https://gist.github.com/4271982">Apache2 optimization</a>  
 <a href="https://gist.github.com/4271967">Apache Redirect Subdomain to port</a>  
