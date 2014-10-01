@@ -9,6 +9,12 @@ Collection of Bash scripts and notes related to Linux server management and secu
 List of snippets
 
 
+<a href="https://gist.github.com/fduran/b29d5a3b7da17b5d7382#file-checking-for-shellshock-attempts-in-web-server-logs">Checking for Shellshock attempts in web server logs</a>  
+<a href="https://gist.github.com/fduran/60ea246257cc6449e8e8#file-tail-log-file-in-browser">Tail follow log file in browser</a>  
+<a href="https://gist.github.com/fduran/e6229925993be4d50e2d#file-check-and-alert-if-mysql-slave-is-not-running">Check and alert if MySQL slave is not running</a>  
+<a href="https://gist.github.com/fduran/d99d3777036970dbbaf1#file-calculate-mysql-schema-disk-size">Calculate MySQL schema disk size</a>  
+<a href="https://gist.github.com/fduran/736712d314c67b79a778#file-wordpress-error-establishing-database-connection">WordPress Error establishing database connection</a>  
+<a href="https://gist.github.com/fduran/eb27c56375066932f538#file-mysql-optimization">MySQL Optimization</a>  
 <a href="https://gist.github.com/fduran/f678b4b67f559ad505d8#file-linux-bash-generate-a-number-of-files-of-random-sizes-in-a-range">Linux Bash generate a number of files of random sizes in a range</a>  
 <a href="https://gist.github.com/fduran/11401032#file-linux-exclude-a-process-from-being-killed-by-oom-killer">Linux exclude a process from being killed by oom killer</a>   
 <a href="https://gist.github.com/fduran/11401011#file-linux-mini-forensics-on-unknown-running-process">Linux mini forensics on unknown running process</a>  
