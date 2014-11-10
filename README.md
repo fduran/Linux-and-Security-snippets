@@ -10,6 +10,8 @@ List of snippets
 
 
 <a href="https://gist.github.com/fduran/b29d5a3b7da17b5d7382#file-checking-for-shellshock-attempts-in-web-server-logs">Checking for Shellshock attempts in web server logs</a>  
+<a href="https://gist.github.com/fduran/779752da0f76bb27bf33#file-django-install-nginx-uwsgi-md">Django Install - Nginx uwsgi</a>  
+<a href="https://gist.github.com/fduran/9340e5a553fd5bd9da5e#file-django_install_apache-md">Django Install - Apache</a>  
 <a href="https://gist.github.com/fduran/60ea246257cc6449e8e8#file-tail-log-file-in-browser">Tail follow log file in browser</a>  
 <a href="https://gist.github.com/fduran/e6229925993be4d50e2d#file-check-and-alert-if-mysql-slave-is-not-running">Check and alert if MySQL slave is not running</a>  
 <a href="https://gist.github.com/fduran/d99d3777036970dbbaf1#file-calculate-mysql-schema-disk-size">Calculate MySQL schema disk size</a>  
